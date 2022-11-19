@@ -1,5 +1,5 @@
 /* Leetcode: https://leetcode.com/problems/factorial-trailing-zeroes/ */
-/* Time: O(log(n)) Space: O(1) */
+/* Time: O(log5(n)) Space: O(1) */
 public class FactorialTrailingZeroes {
     public static int factorialZeroes(int n){
         /* Calculate power of 2 in n! */

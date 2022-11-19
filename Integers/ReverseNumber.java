@@ -1,6 +1,6 @@
 
 /* LeetCode: https://leetcode.com/problems/reverse-integer/ */
-/* Time: O(log(n)) Space: O(1) */
+/* Time: O(log10(n)) Space: O(1) */
 public class ReverseNumber {
     public static int reverseNumber(int n){
         int max_integer = Integer.MAX_VALUE ;
