@@ -1,3 +1,4 @@
+/* Leetcode: https://leetcode.com/problems/repeated-dna-sequences/ */
 public class LongestCommonPrefix {
     public static String longestCommonPrefix(String[] strs) {
         StringBuffer result = new StringBuffer("");
